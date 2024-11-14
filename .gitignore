@@ -1,0 +1,46 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directory
+venv/
+env/
+.venv/
+.env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python egg and distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# IDE files (uncomment as needed for your IDE)
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Files created during file transfer testing
+*.partial
+*.tmp_transfer
+
+# Exclude all empty files with no extension
+*.
+
+# Personal configuration files
+config.ini

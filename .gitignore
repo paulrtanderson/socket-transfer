@@ -41,6 +41,8 @@ build/
 
 # Exclude all empty files with no extension
 *.
+*.[^a-zA-Z0-9]*
+
 
 # Personal configuration files
 config.ini
